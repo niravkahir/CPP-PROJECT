@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 n 123
 Ahmedabad
 jaan 1119 Ahmedabad
@@ -11,3 +12,26 @@ prince 123
 Nadiad
 vraj 1234
 Rajkot
+=======
+nka 12345
+nka 12345 Surat
+abc 12345 Ahmedabad
+nirav 67890 Nadiad
+nkahir 12345 Surat
+xyz 12345 Surat
+nnn 12345 Surat
+nnk 12345 Surat
+aaa 12345 Surat
+aaa aaa Surat
+kkk 1234 Surat
+sss 1234 Surat
+ccc 1234 Surat
+a 1234 Surat
+aa 123 Ahmedabad
+e 1234 Surat
+n 123 Surat
+v 123 Vadodara
+q 123 Ahmedabad
+vraj 123 Vadodara
+1 1 Surat
+>>>>>>> f450e05b324e78e2ff1f845d09894a8ab4c63d39
